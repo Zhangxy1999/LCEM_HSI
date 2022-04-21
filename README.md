@@ -25,7 +25,7 @@ In addition, if running on other data sets, you can adjust the default parameter
 
 We appreciate Prof. Leyuan Fang for providing the LCMR implementations (https://ieeexplore.ieee.org/document/8323411).
 
-## Reference
+## Citation
 
 If you find this work helpful, please cite our paper:
 
